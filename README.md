@@ -1,4 +1,4 @@
-# estadisticas_economicas
+# Estadísticas Económicas
 
 **Contenido**:
 
